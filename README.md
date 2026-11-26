@@ -1,8 +1,8 @@
 # The World Today — 26 November 2026
 
-[![Rank](https://make.fun/badge/news-image-20261126/prabowo888888-cmyk/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126)
-[![Reward](https://make.fun/badge/news-image-20261126/prabowo888888-cmyk/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126)
-[![make.fun](https://make.fun/badge/news-image-20261126/prabowo888888-cmyk/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/prabowo888888-cmyk/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/prabowo888888-cmyk/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 This repository holds my entry for the make.fun contest
 [Sum up 26 November's world news in one image](https://make.fun/bounty/news-image-20261126):
